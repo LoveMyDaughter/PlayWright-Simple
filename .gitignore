@@ -1,0 +1,41 @@
+# Build products
+obj/
+bin/
+dist/
+r/
+/test/
+/coverage/
+
+# Visual Studio
+.vs/
+*.user
+*.cache
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Testing
+TestResults
+TestResult*.xml
+
+# Temporary files
+*.log
+*.old
+*.tmp
+
+# Git
+*.orig
+*.patch
+*.rej
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings
+
+# Windows junk
+Thumbs.db
+Desktop.ini
