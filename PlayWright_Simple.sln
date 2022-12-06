@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayWright_Simple", "PlayWright_Simple\PlayWright_Simple.csproj", "{E5A87659-5AC2-42F8-98DD-5DF24AC69B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayWright_API", "PlayWright_API\PlayWright_API.csproj", "{B3469D0B-6684-4487-9672-2F4F49B50336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5A87659-5AC2-42F8-98DD-5DF24AC69B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A87659-5AC2-42F8-98DD-5DF24AC69B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A87659-5AC2-42F8-98DD-5DF24AC69B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3469D0B-6684-4487-9672-2F4F49B50336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3469D0B-6684-4487-9672-2F4F49B50336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3469D0B-6684-4487-9672-2F4F49B50336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3469D0B-6684-4487-9672-2F4F49B50336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -124,5 +124,8 @@ namespace PlayWright_Simple
             var isExist = await loginPage.IsEmployeeDetailsExists();
             Assert.IsTrue(isExist);
         }
+
+
+    
     }
 }
